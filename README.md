@@ -7,27 +7,27 @@ Open-source RF hardware repository. visit [FIDtennas](https://www.fidtennas.ga) 
 
 This repo follows the next structure:
 
-.FIDtennas
-├── README.md
-|
-├── Satellite
-│   ├── *Aiga*
-│   │   ├── images
-│   │   ├── results
-│   │   │   ├── graphics
-│   │   │   └── data
-│   │   ├── model
-│   │   │   ├── 3D
-│   │   │   └── CST
-│   │   └── README.md
-│   ├── ...
-|
-├── 6m
-│   └── ...
-|
-├── 4m
-│   └── ...  
-... 
+    .FIDtennas
+    ├── README.md
+    |
+    ├── Satellite
+    │   ├── *Aiga*
+    │   │   ├── images
+    │   │   ├── results
+    │   │   │   ├── graphics
+    │   │   │   └── data
+    │   │   ├── model
+    │   │   │   ├── 3D
+    │   │   │   └── CST
+    │   │   └── README.md
+    │   ├── ...
+    |
+    ├── 6m
+    │   └── ...
+    |
+    ├── 4m
+    │   └── ...  
+    ... 
 
 Inside the *images* forder there will be images either of the 3D model of the antenna or of the final build. 
 
