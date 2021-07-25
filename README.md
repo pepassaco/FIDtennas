@@ -1,5 +1,5 @@
 # FIDtennas
-Open-source RF hardware repository. visit [FIDtennas](https://www.fidtennas.ga) for additional info about this project.
+Open-source RF hardware repository. Visit [FIDtennas](https://www.fidtennas.ga) for additional info about this project.
 
 *Designs by Pablo EA1FID*
 
