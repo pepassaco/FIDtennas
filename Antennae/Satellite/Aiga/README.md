@@ -60,8 +60,8 @@ All of the specifications of the Aiga antenna can be found in [our website](http
 
 - The length of the boom is not important provided that it is long enought to support all elements (820mm + what you consider the most confortable for grabbing the antenna).
 - The last element of the antenna must be the Director 5 for the UHF band. It must be placed at the most top of the boom
-- TheDirector 2 for the VHF band must be placed exactly 10mm under the Director 5 for the UHF band. This is easily done if you print out 3D supports, since their width is just 10mm and this means placing them contiguously.
+- The Director 2 for the VHF band must be placed exactly 10mm under the Director 5 for the UHF band. This is easily done if you print out 3D supports. Since their width is just 10mm, this is achieved by placing them contiguously.
 - Once you have placed these two elements, start measuring the distances between the rest of them in order to build the antenna.
-- It is highly recommended painting some marks on the boom corresponding to the exact position of each element. In this way, it is possible to assemble the antenna pretty fast (in under a minute!)
+- It is highly recommended drawing some marks on the boom corresponding to the exact **position** and **orientation** of each element. In this way, it is possible to assemble the antenna pretty fast (in under a minute!).
 - For extra detail about this antenna and a building guide, visit [our website](https://www.fidtenas.ga/blog/2021-08-08-aiga/)
 
