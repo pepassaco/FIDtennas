@@ -56,7 +56,7 @@ All of the specifications of the Aiga antenna can be found in [our website](http
 | Director 4 - Director 5 |      170      |
 
 
-**Important remarks:*
+**Important remarks:**
 
 - The length of the boom is not important provided that it is long enought to support all elements (820mm + what you consider the most confortable for grabbing the antenna).
 - The last element of the antenna must be the Director 5 for the UHF band. It must be placed at the most top of the boom
