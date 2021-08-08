@@ -10,24 +10,25 @@ This repo follows the next structure:
     .FIDtennas
     ├── README.md
     |
-    ├── Satellite
-    │   ├── *Aiga*
-    │   │   ├── images
-    │   │   ├── results
-    │   │   │   ├── graphics
-    │   │   │   └── data
-    │   │   ├── model
-    │   │   │   ├── 3D
-    │   │   │   └── CST
-    │   │   └── README.md
-    │   ├── ...
+    ├── 3D parts
     |
-    ├── 6m
-    │   └── ...
+    ├── Antennae
+    │   ├── Satellite
+    │   │   ├── Aiga
+    │   │   │   ├── images
+    │   │   │   ├── results
+    │   │   │   ├── model
+    │   │   │   └── README.md
+    │   │   ├── ...
+    │   |
+    │   ├── 6m
+    │   │   └── ...
+    │   |
+    │   ├── 4m
+    │   │   └── ...  
+    |   ├── ...
     |
-    ├── 4m
-    │   └── ...  
-    ... 
+    └── Other   
 
 Inside the *images* forder there will be images either of the 3D model of the antenna or of the final build. 
 
